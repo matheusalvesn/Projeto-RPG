@@ -1,0 +1,1 @@
+Este projeto consiste no desenvolvimento de um RPG acadêmico baseado em linhas de texto, ambientado em um cenário medieval. O objetivo principal foi aplicar e consolidar conceitos de Programação Orientada a Objetos (POO) por meio da linguagem Java.
